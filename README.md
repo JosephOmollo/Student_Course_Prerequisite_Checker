@@ -185,6 +185,7 @@ Potential next steps include:
 ## Author
 
 **Joseph Omollo**  
+Electrical and Electronics Engineering
 University of Nairobi student and aspiring software developer
 
 - GitHub: [JosephOmollo](https://github.com/JosephOmollo)
